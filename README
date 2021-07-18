@@ -1,0 +1,6 @@
+Main2 wird genutzt umd die Daten aus der Datenbank zu bekommen. Angepasst werden muss jeweils das CSV file und der
+Datenbanklink (je nach Handwerkskammer). Der ID Rahmen muss auch immer definiert werden.
+
+Bei gmailxx muss SMTP, E-Mail Name und E-Mail Passwortngepassten werden. Ansonsten Variable UMFRAGE-ID anpassen und
+das eingelesene CSV-File (Name, E-Mail).
+
